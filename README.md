@@ -1,4 +1,4 @@
-### Hi, my name is Andrey.\
+### Hi, my name is Andrey.
 I’m very interested in the front-end.\
 I’m currently learning a programming language JavaScript. And I’m  interested in various libraries and frameworks that have been created based on this language, and help to speed up web programs ande make them easier to write.\
 \
